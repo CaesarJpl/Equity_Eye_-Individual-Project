@@ -1,6 +1,5 @@
 
 # Equity Eye
-Note: This version does not contain large files with stock price data due to moodle's file size submission limit.
 
 Equity Eye is a web-based investment simulation platform designed to help users—especially beginners—learn about stock trading in a risk-free environment. The project consists of a Vue.js frontend and a Django backend, connected to a MySQL database.
 
